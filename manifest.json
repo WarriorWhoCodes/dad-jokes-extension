@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Dad Jokes",
+    "version": "1.0.0",
+    "description": "Random lame jokes that make your day",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "joke-icon.png"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "icons": {
+        "16": "joke-icon.png",
+        "32": "joke-icon.png",
+        "48": "joke-icon.png",
+        "128": "joke-icon.png"
+    }
+}
