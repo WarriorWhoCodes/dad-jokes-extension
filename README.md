@@ -1,5 +1,7 @@
 # jokes-chrome-extension
 
+Developed by **Anubhab Mandal**.
+
 ## This is a chrome extension that shows you random jokes from the internet that make your day
 
 A small guide on how to use this extension:
@@ -13,3 +15,5 @@ A small guide on how to use this extension:
 ### Hooray, the jokes are all yours now.
 
 # Don't forget to give us a STAR!!
+
+## Visit [Anubhab Mandal](https://github.com/Anubhab2002) for more Projects!
