@@ -1,11 +1,11 @@
-# CodeVisor Profile Launcher - Chrome extension
-Simple Chrome Extension for a quick launcher to your all social media profiles at one click.
+# Dad-jokes-Extension for Chrome
+Simple Chrome Extension that shows you random jokes from internet that makes your day.
 
 ## Project Maintainers👨🏫:
 
-| <img src = "https://user-images.githubusercontent.com/55637484/135868279-accc32c2-b723-4764-b8ea-69d158484354.jpeg" width = 200 height = 200> | <img src = "https://user-images.githubusercontent.com/55637484/135871362-b5baa3b5-b53e-4f08-8017-fa23bf6edc6b.jpg" width = 170 height = 200> |
+| <img src = "https://avatars.githubusercontent.com/u/84004920?v=4" width = 200 height = 200> | <img src = "https://user-images.githubusercontent.com/55637484/135871362-b5baa3b5-b53e-4f08-8017-fa23bf6edc6b.jpg" width = 170 height = 200> |
 | :------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: |
-|                    [Chirag Taneja](https://github.com/chiragtaneja04)\*                    |                        [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)   
+|                    [Anubhab Mandal](https://github.com/Anubhab2002)                    |                        [Ankush Singh Gandhi](https://github.com/ankushsinghgandhi)   
 
 ## Demo :purple_heart:
 
@@ -16,10 +16,10 @@ Simple Chrome Extension for a quick launcher to your all social media profiles a
 To download the extension, run the following command in your __Command Prompt/Terminal__:
 
 ```
-git clone https://github.com/CodeVisors/codevisor-profile-launcher.git
+git clone https://github.com/CodeVisors/dad-jokes-extension.git
 ```
 
-Or alternatively, you can [__Download a ZIP__](https://github.com/CodeVisors/codevisor-profile-launcher/archive/refs/heads/main.zip) and then unpack the ZIP folder.
+Or alternatively, you can [__Download a ZIP__](https://github.com/CodeVisors/dad-jokes-extension/archive/refs/heads/main.zip) and then unpack the ZIP folder.
 
 Once you have the extension code:
 
@@ -30,9 +30,16 @@ Once you have the extension code:
 ![Screenshot from 2021-10-02 11-13-44](https://user-images.githubusercontent.com/55637484/135705139-dad510e2-6109-46f5-acaa-1b82da1fc5bb.png)
 
 * Toogle the __Developer Mode__ to right so that it is __ON__ 
-* Click on __Load Unpacked__ and upload the unpacked ZIP files.
+* Click on __Load Unpacked__ 
+* navigate to the unpacked ZIP files / cloned repo and upload.
 * And you're done! 
 
-![Screenshot from 2021-10-02 11-17-58](https://user-images.githubusercontent.com/55637484/135705244-fbe26b28-5804-4c86-a0c3-31aaaaaf89e0.png)
+![dad_jokes_extension](https://user-images.githubusercontent.com/26281852/136672174-a5239bd4-dab0-49c8-99ee-8f66b8511c75.png)
 
 Your extension is ready to work! Enjoy:thumbsup:
+
+###### Hooray, the jokes are all yours now!! 
+Get random dad jokes and CHEER up your DAY !!
+
+![dad-jokesdemo](https://user-images.githubusercontent.com/26281852/136672494-82782c48-d905-4a74-8dd2-71ee3f207a83.png)
+
