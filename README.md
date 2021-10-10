@@ -9,7 +9,8 @@ Simple Chrome Extension that shows you random jokes from internet that makes you
 
 ## Demo :purple_heart:
 
-![Screenshot from 2021-10-02 11-20-36](https://user-images.githubusercontent.com/55637484/135705291-a9fcbc2b-2487-4955-a076-616a8d86ac30.png)
+![dad-jk-demo-update](https://user-images.githubusercontent.com/26281852/136684626-6b5f56f2-a570-4366-bc9c-de7acc674eca.png)
+
 
 ## Downloading and Deploying the Extension :eyes:
 
@@ -36,10 +37,6 @@ Once you have the extension code:
 
 ![dad_jokes_extension](https://user-images.githubusercontent.com/26281852/136672174-a5239bd4-dab0-49c8-99ee-8f66b8511c75.png)
 
-Your extension is ready to work! Enjoy:thumbsup:
+The Jokes are all yours now! Enjoy:thumbsup:
 
-#### Hooray, the jokes are all yours now!! 
-Get random dad jokes and CHEER up your DAY !!
-
-![dad-jokesdemo](https://user-images.githubusercontent.com/26281852/136672494-82782c48-d905-4a74-8dd2-71ee3f207a83.png)
 
