@@ -1,23 +1,40 @@
 body {
     width: 300px;
-    background-color:cornsilk;
+    background-image: url(https://manofmany.com/wp-content/uploads/2020/03/wallhaven-md18v9-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
-.ml {
+.ml_title {
+    font-size: 50px;
     margin: auto;
     text-align: center;
+    position: absolute;
+    top: 19%;
+    left: 20%
+}
+.ml{
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    top: 25%;
+    left: 30%
 }
 .title {
     text-align: center;
 }
 .container {
     height: 200px;
-    position: relative;
-    border: 3px solid green;
+    position: absolute;
+    border: 4px solid green;
+    display: flex;
+    top: 40%;
+    left: 20%;
+
 }
 .joke {
     text-align: justify;
     top: 40%;
-    font-size: 15px;
+    font-size: 20px;
     padding: 10px;
 }
 .al-auto {
