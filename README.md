@@ -38,7 +38,7 @@ Once you have the extension code:
 
 Your extension is ready to work! Enjoy:thumbsup:
 
-###### Hooray, the jokes are all yours now!! 
+#### Hooray, the jokes are all yours now!! 
 Get random dad jokes and CHEER up your DAY !!
 
 ![dad-jokesdemo](https://user-images.githubusercontent.com/26281852/136672494-82782c48-d905-4a74-8dd2-71ee3f207a83.png)
